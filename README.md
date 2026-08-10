@@ -52,25 +52,38 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/rannsxX/rannsxX/snake-output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/rannsxX/rannsxX/snake-output/dist/snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 
 ###
 
 <div data-importer="socials" align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /><br>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /><br>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <a href="https://www.instagram.com/ranjash kr shah" target="_blank">
+  <a href="https://www.instagram.com/ranjash kr shah" target="_blank"><br>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
 
 ###
 
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/rannsxX/rannsxX/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/rannsxX/rannsxX/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/rannsxX/rannsxX/stats-output/dist/stats.svg"
+    alt="GitHub Stats"
+  />
+</p>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/rannsxX/rannsxX/languages-output/dist/languages.svg"
+    alt="Top Languages"
+  />
+</p>
 ###
